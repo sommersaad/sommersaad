@@ -1,7 +1,7 @@
 # Hello World, my name is Sommer Saad.
 
 ## 🚀 My experience
-I have been awarded my certification in Data Science & Analytics provided by QuickStart Inc. This bootcamp has allowed me to understand Power BI, Python, SQL, and machine learning. I have proven to utilize my knowledge from the bootcamp into my projects. This has allowed me to excel profeciently in data-application use. Also, presenting my projects has given me the exposure to tell a story from my visuals. 
+I have been awarded my certification in Data Science & Analytics, provided by QuickStart Inc. This bootcamp has allowed me to understand Power BI, Python, SQL, and machine learning. I have proven to utilize my knowledge from the bootcamp into my projects. This has allowed me to excel profeciently in data-application use. Also, presenting my projects has given me the exposure to tell a story from my visuals. 
 
 
 ## 🛠 Skills
