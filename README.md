@@ -12,7 +12,7 @@ I have been awarded my certification in Data Science & Analytics provided by Qui
 - Data mining
 - Machine Learning
 - Dashboard Development
-- Data-presenting
+- Data-Presenting
 
 
 ## About me:
