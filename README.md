@@ -23,7 +23,7 @@ I have been awarded my certification in Data Science & Analytics, provided by Qu
 
 ✅ To reach a new horizon of experience, my goal is to include more projects in Data Science. 
 
-📫 You can reach me via email at sommersaad482gmail.com or the LinkedIn badge at the bottom
+📫 You can reach me via email at sommersaad482gmail.com or the LinkedIn badge at the bottom.
 
 
 ## Certificates:
